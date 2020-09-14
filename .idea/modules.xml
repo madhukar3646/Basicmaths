@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic Maths.iml" filepath="$PROJECT_DIR$/Basic Maths.iml" group="Basic Maths" />
+      <module fileurl="file://$PROJECT_DIR$/app/Basic Maths-app.iml" filepath="$PROJECT_DIR$/app/Basic Maths-app.iml" group="Basic Maths/app" />
       <module fileurl="file://$PROJECT_DIR$/ChildMaths.iml" filepath="$PROJECT_DIR$/ChildMaths.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

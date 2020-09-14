@@ -8,13 +8,13 @@
     android:background="@color/colorLightBlack">
 
 
-    <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    <androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="56dp"
         android:id="@+id/toolbar"
         android:background="@color/colorgreenBoard"
         android:theme="@style/ThemeOverlay.AppCompat.Dark">
-    </android.support.v7.widget.Toolbar>
+    </androidx.appcompat.widget.Toolbar>
 
     <!--<FrameLayout
         android:id="@+id/banner"
@@ -213,7 +213,7 @@
                     android:visibility="visible"
                     android:gravity="center"/>
 
-                <android.support.v7.widget.RecyclerView
+                <androidx.recyclerview.widget.RecyclerView
                     android:id="@+id/more_app_recycler_view"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -221,7 +221,7 @@
                     android:layout_marginTop="10dp"
                     >
 
-                </android.support.v7.widget.RecyclerView>
+                </androidx.recyclerview.widget.RecyclerView>
 
             </RelativeLayout>
 

@@ -1,9 +1,9 @@
 package com.app.childmaths;
 import android.media.MediaPlayer;
 import android.speech.tts.TextToSpeech;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.CardView;
+import androidx.cardview.widget.CardView;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
